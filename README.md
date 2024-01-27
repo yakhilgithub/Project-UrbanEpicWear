@@ -21,4 +21,4 @@ Join the Movement: There's a spot to subscribe for updates, kind of like signing
 I used HTML and CSS to make this happen. The HTML file (TWE.html) sets up the webpage structure, while the TWE.css file adds the cool colors and styles.
 
 
-Feel free to explore the code and drop me a line with your thoughts! If you have any questions or cool ideas, don't hesitate to reach out. 
+Feel free to explore the code and drop me a line with your thoughts! If you have any questions or cool ideas, don't hesitate to reach out.
